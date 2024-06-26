@@ -269,6 +269,6 @@ if st.button("予測を実行"):
 
         win_probability_reversed = win_probability[0][::-1]
         st.write(f'予測結果: {"Team BLUE Wins" if prediction[0] == 1 else "Team RED Wins"}')
-        st.write(f'勝利確率: {win_probability_reversed}')
+        st.write(f'勝利確率: {win_probability_reversed, win_probability}')
     else:
         st.write("各チームに5つのチャンピオンIDを入力してください。")
