@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 
 # チャンピオン名とIDの対応リストを辞書に変換
 champion_dict = {
-    "":0,
+   "": 0,
     "アニー": 1,
     "オラフ": 2,
     "ガリオ": 3,
