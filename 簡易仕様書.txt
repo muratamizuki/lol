@@ -1,6 +1,10 @@
 ● アプリ名
 AIハイマー博士
 
+streamlit上にデプロイ済み
+以下URL
+https://lolsuperai.streamlit.app/
+
 ● 対象OSおよびブラウザ(ver.含む)
 対象OS
 Windows: Windows 7以降
