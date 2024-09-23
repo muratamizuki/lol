@@ -254,7 +254,7 @@ with right_col:
             champion_ids_200.append(champion_id)
 
 if st.button("予測を実行"):
-    model_filename = 'lolperfect_AI.pkl'
+    model_filename = '2024worlds_champion_only_AI.pkl'
     loaded_model = load_model(model_filename)
 
     X = pd.DataFrame(columns=[
