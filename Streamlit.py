@@ -188,7 +188,7 @@ def get_champion_id(champion_name):
     return champion_dict.get(champion_name, "チャンピオンが見つかりません")
 
 # モデルをロードする関数
-def load_model(model_filename='lolperfect_AI.pkl'):
+def load_model(model_filename='2024worlds_champion_only_AI.pkl'):
     return joblib.load(model_filename)
 
 # 試合を予測する関数
