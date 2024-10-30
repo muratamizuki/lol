@@ -261,7 +261,7 @@ if st.button("予測を実行"):
         'team_gold_100', 'team_gold_200', 'team_damage_100', 'team_damage_200',
         'team_vision_100', 'team_vision_200', 'team_kills_100', 'team_kills_200',
         'team_deaths_100', 'team_deaths_200', 'team_assists_100', 'team_assists_200',
-                'champion_100_1', 'champion_100_2', 'champion_100_3', 'champion_100_4', 'champion_100_5',
+        'champion_100_1', 'champion_100_2', 'champion_100_3', 'champion_100_4', 'champion_100_5',
         'champion_200_1', 'champion_200_2', 'champion_200_3', 'champion_200_4', 'champion_200_5'
     ])
 
